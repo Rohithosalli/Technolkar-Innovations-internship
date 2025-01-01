@@ -60,6 +60,10 @@ The project involved designing and documenting the Ultrasonic-Based Self-Driving
 * Enhanced ability to simplify technical concepts for educational purposes.
 * Strengthened attention to detail in documentation and design.
 
+### Certificate of Completion
+
+The internship was successfully completed under the guidance of Technolkar Innovations. The certificate acknowledges contributions to content writing and design for workshop-oriented projects.
+
 ### Conclusion
 
 This internship provided an excellent opportunity to bridge technical expertise and educational outreach. The experience of creating a student-focused manual for a self-driving car project has honed skills in documentation, communication, and technical education.
